@@ -17,3 +17,6 @@ color: red;
 <h2 style="color: red;">CatPhotoApp</h2>
 ```
 <!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
+The css Color style property is used to to change the color of a text in html.
+## SOLUTION
+<h2 style="color: red;">CatPhotoApp</h2>
